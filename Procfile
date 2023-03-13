@@ -1,1 +1,1 @@
-bot: rackup config.ru
+bot: ruby main.rb
